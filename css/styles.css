@@ -744,6 +744,7 @@ body {
   width: 18px;
   height: 18px;
   fill: #000000;
+  transition: fill var(--hover-focus-decor-func);
 }
 .x-box:hover .x-button,
 .x-box:focus .x-button {
